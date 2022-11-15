@@ -9,4 +9,4 @@ spec:
   host: '*.local'
   trafficPolicy:
     tls:
-      mode: ISTIO_MUTUAL
+      mode: SIMPLE
